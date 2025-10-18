@@ -1,4 +1,4 @@
-# Jdsgame
+# JDSGame
 
 ```shell
 #      __     __       _____
